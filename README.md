@@ -94,7 +94,7 @@ Raw Data
    │
    ├── Preprocessing (per model type)
    │     ├── Scaled pipeline       → OneHotEncoder + StandardScaler  (LR, KNN, SVM)
-   │     ├── Tree pipeline         → OneHotEncoder + passthrough      (RF, ET, XGB, SMOTE models)
+   │     ├── Tree pipeline         → OneHotEncoder + passthrough      (RF, XGB, SMOTE models)
    │     └── Boost pipeline        → passthrough + passthrough        (CatBoost native)
    │
    ├── SMOTE (inside Pipeline — no leakage)
@@ -117,7 +117,6 @@ All models were evaluated using **Stratified 5-Fold Cross-Validation**. Each alg
 | Support Vector Machine | Standard / + SMOTE |
 | Decision Tree | Standard / + SMOTE |
 | Random Forest | Standard / + SMOTE |
-| Extra Trees | Standard / + SMOTE |
 | XGBoost | Standard / + SMOTE |
 | CatBoost | Standard / + SMOTE |
 
