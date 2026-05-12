@@ -1,4 +1,4 @@
-# 💼 Employee Income Prediction
+# 💼 Employee Salary Prediction
 
 A full end-to-end machine learning pipeline that predicts whether an individual's annual income exceeds **$50K**, built on the classic UCI Adult Census dataset. The project covers the complete ML lifecycle — from raw data analysis to a live interactive GUI — and was developed as a college AI/ML graduation project.
 
