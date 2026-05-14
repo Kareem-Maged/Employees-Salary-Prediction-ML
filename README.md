@@ -183,12 +183,12 @@ This project was developed by a team of 6 as a college AI/ML graduation project.
 
 | Name |
 |---|
-| *(Your Name)* |
-| Adham |
-| Abdelrahman |
-| Wegdan |
-| Rawan |
-| Yasmeen |
+| Kareem Maged |
+| Adham Atef |
+| Abdelrahman Zaki |
+| Wegdan Ashraf |
+| Rawan Ahmed |
+| Yasmeen Waleed |
 
 ---
 
